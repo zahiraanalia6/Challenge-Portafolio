@@ -70,7 +70,3 @@ const mensajesDeError = {
         tooShort: "Debe contener mínimo 20 caracteres",
     }
 };
-
-const validadores = {
-    // Aquí puedes agregar validaciones personalizadas
-};
